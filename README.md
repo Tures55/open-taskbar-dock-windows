@@ -40,7 +40,7 @@ Tures 55 Dock sostituisce la barra delle applicazioni di Windows con una dock mo
 - Interfaccia in italiano e inglese.
 
 ### Licenza
-Gratuita per uso personale. Il programma non si può ridistribuire: per farlo conoscere condividi questo link: https://github.com/Tures55/tures55-dock
+Gratuita per uso personale. Puoi condividere l'installatore originale, gratis e senza modificarlo, indicando questa pagina ufficiale: https://github.com/Tures55/tures55-dock
 
 Se ti è utile puoi sostenerlo: https://buymeacoffee.com/tures1955
 
@@ -59,6 +59,6 @@ Tures 55 Dock replaces the Windows taskbar with a modern, easy-to-read dock.
 - Italian and English interface.
 
 ### License
-Free for personal use. Redistribution is not allowed: to share it, share this link: https://github.com/Tures55/tures55-dock
+Free for personal use. You may share the original installer, free of charge and unmodified, linking to this official page: https://github.com/Tures55/tures55-dock
 
 If you find it useful you can support it: https://buymeacoffee.com/tures1955
