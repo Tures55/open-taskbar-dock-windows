@@ -21,9 +21,12 @@
 
 ## ⬇️ Scarica / Download
 
-**[Scarica l'ultima versione / Download the latest version](https://github.com/Tures55/tures55-dock/releases/latest)** → `Tures55-Dock-Setup-<versione>.exe`
+### **[⬇️ Scarica Tures 55 Dock per Windows / Download for Windows](https://github.com/Tures55/tures55-dock/releases/latest/download/Tures55-Dock-Setup.exe)**
 
-La barra installata si aggiorna da sola. / The installed dock updates itself.
+Il clic scarica subito `Tures55-Dock-Setup.exe`, sempre l'ultima versione: aprilo e segui i passi. La barra installata poi si aggiorna da sola.
+One click downloads `Tures55-Dock-Setup.exe`, always the latest version: open it and follow the steps. The installed dock then updates itself.
+
+<sub>Tutte le versioni / All versions: [Releases](https://github.com/Tures55/tures55-dock/releases)</sub>
 
 ---
 
