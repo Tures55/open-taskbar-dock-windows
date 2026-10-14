@@ -5,6 +5,14 @@
 
 ### 🌐 [Sito ufficiale / Official website: tures55.github.io](https://tures55.github.io/)
 
+### ▶️ [Guida video / Video guide (3 min)](https://tures55.github.io/en/#guida)
+
+[![Guida video / Video guide](presentazione/guida_video.jpg)](https://tures55.github.io/en/#guida)
+
+🇮🇹 [Guarda in italiano](https://tures55.github.io/#guida-it) · 🇬🇧 [Watch in English](https://tures55.github.io/en/#guida-en) · 🌍 [Español · Français · Deutsch · Português · 中文 · 日本語 · Русский · 한국어](https://tures55.github.io/en/#guida)
+
+Il video si apre nella lingua del tuo computer. / The video opens in your computer's language.
+
 ![Tures 55 Dock](presentazione/desktop.png)
 
 ![Tures 55 Dock in azione / in action](presentazione/demo.gif)
