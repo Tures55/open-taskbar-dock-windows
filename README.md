@@ -7,6 +7,10 @@
 
 ### ▶️ [Guida video / Video guide (3 min)](https://tures55.github.io/en/#guida)
 
+### ⭐ [Ti piace? Metti una stella / Like it? Star this project](https://github.com/Tures55/tures55-dock)
+
+Basta un clic sulla stella ⭐ in alto a destra di questa pagina: aiuta altre persone a trovarlo. / One click on the ⭐ at the top right of this page helps others find it.
+
 [![Guida video / Video guide](presentazione/guida_video.jpg)](https://tures55.github.io/en/#guida)
 
 🇮🇹 [Guarda in italiano](https://tures55.github.io/#guida-it) · 🇬🇧 [Watch in English](https://tures55.github.io/en/#guida-en) · 🌍 [Español · Français · Deutsch · Português · 中文 · 日本語 · Русский · 한국어](https://tures55.github.io/en/#guida)
