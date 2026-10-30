@@ -3,7 +3,7 @@
 **Alternativa gratuita alla barra delle applicazioni di Windows 11: una dock in stile macOS, come Winstep Nexus, RocketDock e ObjectDock.**
 **Free Windows 11 taskbar replacement: a macOS-style dock, an alternative to Winstep Nexus, RocketDock and ObjectDock.**
 
-[![Download totali / Total downloads](https://img.shields.io/github/downloads/Tures55/tures55-dock/Tures55-Dock-Setup.exe?label=download%20totali&displayAssetName=false)](https://github.com/Tures55/tures55-dock/releases/latest) [![Download ultima versione / Latest version downloads](https://img.shields.io/github/downloads/Tures55/tures55-dock/latest/Tures55-Dock-Setup.exe?label=ultima%20versione&displayAssetName=false)](https://github.com/Tures55/tures55-dock/releases/latest)
+[![Download totali / Total downloads](https://img.shields.io/github/downloads/Tures55/tures55-dock/Tures55-Dock-Setup.exe?label=download%20totali&displayAssetName=false&style=for-the-badge&color=brightgreen)](https://github.com/Tures55/tures55-dock/releases/latest) [![Download ultima versione / Latest version downloads](https://img.shields.io/github/downloads/Tures55/tures55-dock/latest/Tures55-Dock-Setup.exe?label=ultima%20versione&displayAssetName=false&style=for-the-badge&color=brightgreen)](https://github.com/Tures55/tures55-dock/releases/latest)
 
 ### 🌐 [Sito ufficiale / Official website: tures55.github.io](https://tures55.github.io/)
 
