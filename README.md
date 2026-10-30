@@ -45,7 +45,7 @@ Il video si apre nella lingua del tuo computer. / The video opens in your comput
 Il clic scarica subito `Tures55-Dock-Setup.exe`, sempre l'ultima versione: aprilo e segui i passi. La barra installata poi si aggiorna da sola.
 One click downloads `Tures55-Dock-Setup.exe`, always the latest version: open it and follow the steps. The installed dock then updates itself.
 
-<sub>Tutte le versioni / All versions: [Releases](https://github.com/Tures55/open-taskbar-dock-windows/releases)</sub>
+<sub>Tutte le versioni / All versions: [Releases](https://github.com/Tures55/open-taskbar-dock-windows/releases) · Novità in arrivo / Coming next: [NOVITA_IN_ARRIVO.md](NOVITA_IN_ARRIVO.md)</sub>
 
 ---
 
